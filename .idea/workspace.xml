@@ -35,7 +35,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1SNJjVhXln8GG2DnolaAAAntq2A" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -151,7 +153,7 @@
       <workItem from="1586148645190" duration="10708000" />
       <workItem from="1586344295430" duration="1513000" />
       <workItem from="1606096469896" duration="32000" />
-      <workItem from="1606096926358" duration="326000" />
+      <workItem from="1606096926358" duration="566000" />
     </task>
     <task id="LOCAL-00001" summary="coding lab">
       <created>1606097028453</created>
@@ -160,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606097028453</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="coding lab">
+      <created>1606097424953</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606097424953</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,10 +180,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="coding lab" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1222" y="250" key="CommitChangelistDialog2" timestamp="1606097027909">
+    <state x="1222" y="250" key="CommitChangelistDialog2" timestamp="1606097428602">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1222" y="250" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1606097027909" />
+    <state x="1222" y="250" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1606097428602" />
     <state x="1402" y="400" key="FileChooserDialogImpl" timestamp="1606097189585">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
