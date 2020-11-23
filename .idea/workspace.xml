@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="b6050094-b172-442f-a92e-e5bf9468ce0a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/per1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/pro1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/findMaxSubstr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/san2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/wangyi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/wangyi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,33 +71,7 @@
       <recent name="C:\Users\admin\Desktop\笔记、代码、课件、资料\mycode\src\yu\datastructures\queue" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MiGong">
-    <configuration name="ArrayStackDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="yu.datastructures.stack.ArrayStackDemo" />
-      <module name="codelab" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="yu.datastructures.stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DoubleLinkedListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="yu.datastructures.linkedlist.DoubleLinkedListDemo" />
-      <module name="codelab" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="yu.datastructures.linkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.pro1">
     <configuration name="MiGong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="yu.datastructures.recursion.MiGong" />
       <module name="codelab" />
@@ -107,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleLinkedListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="yu.datastructures.linkedlist.SingleLinkedListDemo" />
+    <configuration name="pro1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.nonam.pro1" />
       <module name="codelab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="yu.datastructures.linkedlist.*" />
+          <option name="PATTERN" value="leetcode.sxf.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +98,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="yu.datastructures.linkedlist.TestStack" />
+    <configuration name="pro3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.pro3" />
       <module name="codelab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="yu.datastructures.linkedlist.*" />
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="san1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.san1" />
+      <module name="codelab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="xc3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.xc3" />
+      <module name="codelab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.pro1" />
+        <item itemvalue="Application.xc3" />
+        <item itemvalue="Application.san1" />
+        <item itemvalue="Application.pro3" />
         <item itemvalue="Application.MiGong" />
-        <item itemvalue="Application.ArrayStackDemo" />
-        <item itemvalue="Application.DoubleLinkedListDemo" />
-        <item itemvalue="Application.TestStack" />
-        <item itemvalue="Application.SingleLinkedListDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +161,7 @@
       <workItem from="1586148645190" duration="10708000" />
       <workItem from="1586344295430" duration="1513000" />
       <workItem from="1606096469896" duration="32000" />
-      <workItem from="1606096926358" duration="566000" />
+      <workItem from="1606096926358" duration="1212000" />
     </task>
     <task id="LOCAL-00001" summary="coding lab">
       <created>1606097028453</created>
@@ -173,7 +177,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606097424953</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="coding lab">
+      <created>1606097495682</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606097495682</updated>
+    </task>
+    <task id="LOCAL-00004" summary="coding lab">
+      <created>1606097621005</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606097621005</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,18 +202,34 @@
     <option name="LAST_COMMIT_MESSAGE" value="coding lab" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1222" y="250" key="CommitChangelistDialog2" timestamp="1606097495212">
+    <state x="1222" y="250" key="CommitChangelistDialog2" timestamp="1606097620451">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1222" y="250" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1606097495212" />
+    <state x="1222" y="250" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1606097620451" />
     <state x="1402" y="400" key="FileChooserDialogImpl" timestamp="1606097189585">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1402" y="400" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1606097189585" />
-    <state x="1214" y="392" key="Vcs.Push.Dialog.v2" timestamp="1606097511931">
+    <state width="1384" height="215" key="GridCell.Tab.0.bottom" timestamp="1606098203045">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1214" y="392" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1606097511931" />
+    <state width="1384" height="215" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1606098203045" />
+    <state width="1384" height="215" key="GridCell.Tab.0.center" timestamp="1606098203045">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1384" height="215" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1606098203045" />
+    <state width="1384" height="215" key="GridCell.Tab.0.left" timestamp="1606098203044">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1384" height="215" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1606098203044" />
+    <state width="1384" height="215" key="GridCell.Tab.0.right" timestamp="1606098203045">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1384" height="215" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1606098203045" />
+    <state x="1214" y="392" key="Vcs.Push.Dialog.v2" timestamp="1606097629871">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1214" y="392" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1606097629871" />
     <state x="1415" y="576" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606096487215">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

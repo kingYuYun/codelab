@@ -8,7 +8,6 @@ public class wangyi {
         int t = sc.nextInt();
         int[] res=new int[t];
 
-
         while (t>=0){
             int n=sc.nextInt();
             int[][] arr=new int[n][2];
