@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6050094-b172-442f-a92e-e5bf9468ce0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mycode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/codelab.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +35,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1SNJjVhXln8GG2DnolaAAAntq2A" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -48,7 +46,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/leetcode" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -153,17 +151,38 @@
       <workItem from="1586148645190" duration="10708000" />
       <workItem from="1586344295430" duration="1513000" />
       <workItem from="1606096469896" duration="32000" />
+      <workItem from="1606096926358" duration="326000" />
     </task>
+    <task id="LOCAL-00001" summary="coding lab">
+      <created>1606097028453</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606097028453</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="coding lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="coding lab" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="1402" y="400" key="FileChooserDialogImpl" timestamp="1606096981323">
+    <state x="1222" y="250" key="CommitChangelistDialog2" timestamp="1606097027909">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1402" y="400" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1606096981323" />
+    <state x="1222" y="250" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1606097027909" />
+    <state x="1402" y="400" key="FileChooserDialogImpl" timestamp="1606097189585">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1402" y="400" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1606097189585" />
+    <state x="1214" y="392" key="Vcs.Push.Dialog.v2" timestamp="1606097050605">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1214" y="392" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1606097050605" />
     <state x="1415" y="576" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606096487215">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
