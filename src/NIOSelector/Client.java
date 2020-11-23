@@ -1,4 +1,4 @@
-package NIO.Selector;
+package NIOSelector;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;

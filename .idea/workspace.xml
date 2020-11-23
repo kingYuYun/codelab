@@ -56,10 +56,14 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEAPreoject\codelab\src\leetcode\nonam" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="yu.datastructures.sparsearray" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEAPreoject\codelab\src\leetcode" />
       <recent name="C:\Users\admin\Desktop\笔记、代码、课件、资料\mycode\src\yu\datastructures\queue" />
     </key>
   </component>
@@ -180,18 +184,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="coding lab" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1222" y="250" key="CommitChangelistDialog2" timestamp="1606097428602">
+    <state x="1222" y="250" key="CommitChangelistDialog2" timestamp="1606097495212">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1222" y="250" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1606097428602" />
+    <state x="1222" y="250" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1606097495212" />
     <state x="1402" y="400" key="FileChooserDialogImpl" timestamp="1606097189585">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1402" y="400" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1606097189585" />
-    <state x="1214" y="392" key="Vcs.Push.Dialog.v2" timestamp="1606097050605">
+    <state x="1214" y="392" key="Vcs.Push.Dialog.v2" timestamp="1606097511931">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1214" y="392" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1606097050605" />
+    <state x="1214" y="392" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1606097511931" />
     <state x="1415" y="576" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606096487215">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
