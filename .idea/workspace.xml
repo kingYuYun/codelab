@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6050094-b172-442f-a92e-e5bf9468ce0a" name="Default Changelist" comment="" />
+    <list default="true" id="b6050094-b172-442f-a92e-e5bf9468ce0a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/codelab.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +26,10 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -36,6 +45,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -56,7 +66,7 @@
   <component name="RunManager" selected="Application.MiGong">
     <configuration name="ArrayStackDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="yu.datastructures.stack.ArrayStackDemo" />
-      <module name="mycode" />
+      <module name="codelab" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="yu.datastructures.stack.*" />
@@ -69,7 +79,7 @@
     </configuration>
     <configuration name="DoubleLinkedListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="yu.datastructures.linkedlist.DoubleLinkedListDemo" />
-      <module name="mycode" />
+      <module name="codelab" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="yu.datastructures.linkedlist.*" />
@@ -82,7 +92,7 @@
     </configuration>
     <configuration name="MiGong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="yu.datastructures.recursion.MiGong" />
-      <module name="mycode" />
+      <module name="codelab" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="yu.datastructures.recursion.*" />
@@ -95,7 +105,7 @@
     </configuration>
     <configuration name="SingleLinkedListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="yu.datastructures.linkedlist.SingleLinkedListDemo" />
-      <module name="mycode" />
+      <module name="codelab" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="yu.datastructures.linkedlist.*" />
@@ -108,7 +118,7 @@
     </configuration>
     <configuration name="TestStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="yu.datastructures.linkedlist.TestStack" />
-      <module name="mycode" />
+      <module name="codelab" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="yu.datastructures.linkedlist.*" />
@@ -142,6 +152,7 @@
       <workItem from="1586147430038" duration="1209000" />
       <workItem from="1586148645190" duration="10708000" />
       <workItem from="1586344295430" duration="1513000" />
+      <workItem from="1606096469896" duration="32000" />
     </task>
     <servers />
   </component>
@@ -149,54 +160,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1393" y="324" key="FileChooserDialogImpl" timestamp="1583920682578">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="1402" y="400" key="FileChooserDialogImpl" timestamp="1606096981323">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1393" y="324" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583920682578" />
-    <state width="1195" height="316" key="GridCell.Tab.0.bottom" timestamp="1586345808940">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="1402" y="400" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1606096981323" />
+    <state x="1415" y="576" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606096487215">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1195" height="316" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586345808940" />
-    <state width="1195" height="316" key="GridCell.Tab.0.center" timestamp="1586345808940">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1195" height="316" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586345808940" />
-    <state width="1195" height="316" key="GridCell.Tab.0.left" timestamp="1586345808940">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1195" height="316" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586345808940" />
-    <state width="1195" height="316" key="GridCell.Tab.0.right" timestamp="1586345808940">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1195" height="316" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586345808940" />
-    <state width="1195" height="316" key="GridCell.Tab.1.bottom" timestamp="1586345808940">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1195" height="316" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586345808940" />
-    <state width="1195" height="316" key="GridCell.Tab.1.center" timestamp="1586345808940">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1195" height="316" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586345808940" />
-    <state width="1195" height="316" key="GridCell.Tab.1.left" timestamp="1586345808940">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1195" height="316" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586345808940" />
-    <state width="1195" height="316" key="GridCell.Tab.1.right" timestamp="1586345808940">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1195" height="316" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586345808940" />
-    <state x="913" y="178" width="994" height="708" key="SettingsEditor" timestamp="1586153350393">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="913" y="178" width="994" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586153350393" />
-    <state x="640" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1583931242023">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="640" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583931242023" />
-    <state x="0" y="259" key="new project wizard" timestamp="1583931307119">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="0" y="259" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1583931307119" />
+    <state x="1415" y="576" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1606096487215" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/mycode$MiGong.ic" NAME="MiGong Coverage Results" MODIFIED="1586344322207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
