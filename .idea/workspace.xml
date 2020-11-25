@@ -2,265 +2,68 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6050094-b172-442f-a92e-e5bf9468ce0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/ArrayList/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/BFSandDFS/BFS.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/BFSandDFS/Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/BFSandDFS/SanTreeDFS.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/BFSandDFS/TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/BliimFilter/MyBloomFilter$SimpleHash.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/BliimFilter/MyBloomFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/Stringbuffer/LongestFirstString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/Stringbuffer/getLCS.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/binarysearchnorecursion/BinarySearchNoRecur.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/dac/Hanoitower.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/dac/Hanoitower1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/dijkstra/Graph.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/floyd/Graph.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/greedy/GreedyAlgorithm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/greedy/GreedyDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/horse/HorseChessboard$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/kmp/KMPAlgorithm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/kmp/ViolenceMatch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/kruskal/EData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/prim/MinTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/hashtab/Emp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/hashtab/EmpLinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/hashtab/HashTab.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/hashtab/HashTabDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/linkedlist/Boy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/linkedlist/DoubleLinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/linkedlist/DoubleLinkedListDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/linkedlist/HeroNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/linkedlist/HeroNode2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/linkedlist/Josepfu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/linkedlist/SingleLinkedListDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/linkedlist/TestStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/queue/ArrayQueueDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/queue/CircleQueueDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/recursion/Queen8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/recursion/RecursionTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/search/InsertValueSearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/search/SeqSearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/BubbleSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/HeapSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/InsertSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/QuickSort2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/RadixSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/SelectSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/ShellSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/stack/ArrayStackDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/stack/Calculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/ArrBinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/ArrBinaryTreeDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/BinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/BinaryTreedemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/HeapSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/redbalcktree/RBTrdd$RBNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/redbalcktree/RBTrdd.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/redbalcktree/RedblackTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/threadedbinarytree/ThreadedBinaryTreeDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/desmodel/SingleModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/desmodel/Singleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/desmodel/Singleton2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/desmodel/Singleton2$SingletonHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/desmodel/Singleton2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/javacode/desmodel/Singleton3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/leetcode/nutbolt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/leetcode/sxf/sxf2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/leetcode/sxf/sxf3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacode/LinkedList/LinkedListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacode/algorithm/dac/Hanoitower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacode/algorithm/dac/Hanoitower1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacode/algorithm/dijkstra/DijkstraAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacode/algorithm/dynamic/KnapsackProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacode/algorithm/floyd/FloydAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacode/algorithm/greedy/GreedyAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacode/algorithm/horse/HorseChessboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacode/algorithm/kmp/KMPAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacode/algorithm/kmp/ViolenceMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacode/algorithm/kruskal/KruskalCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacode/datastructures/hashtab/HashTabDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacode/datastructures/linkedlist/DoubleLinkedListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacode/datastructures/search/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacode/datastructures/search/FibonacciSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacode/datastructures/search/SeqSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacode/datastructures/sort/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacode/datastructures/sort/InsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacode/datastructures/sort/MergetSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacode/datastructures/sort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacode/datastructures/sort/RadixSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacode/datastructures/sort/SelectSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacode/datastructures/sort/ShellSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacode/datastructures/tree/ArrBinaryTreeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacode/datastructures/tree/HeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacode/datastructures/tree/threadedbinarytree/ThreadedBinaryTreeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacode/desmodel/SingleModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/nutbolt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/nutbolt2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/leetcode/coding/pp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/leetcode/coding/pp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/leetcode/nonam/pro2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/leetcode/nonam/san2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/leetcode/nonam/sxf1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/leetcode/sxf/sxf1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/leetcode/nonam/sxf2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/leetcode/nonam/sxf3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/ArrayList/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/BFSandDFS/BFS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/BFSandDFS/DFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/BFSandDFS/DFS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/BFSandDFS/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/BFSandDFS/SanTreeDFS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/BFSandDFS/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/BliimFilter/MyBloomFilter$SimpleHash.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/BliimFilter/MyBloomFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/LinkedList/LinkedListDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/LinkedList/LinkedListDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/Stringbuffer/LongestFirstString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/Stringbuffer/getLCS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/Thread/Interpret.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/desmodel/Interpret.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/Thread/SingleModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/Thread/Singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/Thread/Singleton2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/Thread/Singleton2$SingletonHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/Thread/Singleton2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/Thread/Singleton3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/algorithm/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/algorithm/binarysearchnorecursion/BinarySearchNoRecur.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/algorithm/dac/Hanoitower.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/algorithm/dac/Hanoitower1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/algorithm/dijkstra/DijkstraAlgorithm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/dijkstra/DijkstraAlgorithm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/algorithm/dijkstra/Graph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/algorithm/dijkstra/VisitedVertex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/dijkstra/VisitedVertex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/algorithm/dynamic/KnapsackProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/dynamic/KnapsackProblem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/algorithm/floyd/FloydAlgorithm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/floyd/FloydAlgorithm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/algorithm/floyd/Graph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/algorithm/greedy/GreedyAlgorithm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/algorithm/greedy/GreedyDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/algorithm/horse/HorseChessboard$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/algorithm/horse/HorseChessboard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/horse/HorseChessboard.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/algorithm/kmp/KMPAlgorithm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/algorithm/kmp/ViolenceMatch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/algorithm/kruskal/EData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/algorithm/kruskal/KruskalCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/kruskal/KruskalCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/algorithm/prim/MGraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/prim/MGraph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/algorithm/prim/MinTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/algorithm/prim/PrimDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/prim/PrimDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/hashtab/Emp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/hashtab/EmpLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/hashtab/HashTab.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/hashtab/HashTabDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/linkedlist/Boy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/linkedlist/CircleSingleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/linkedlist/CircleSingleLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/linkedlist/DoubleLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/linkedlist/DoubleLinkedListDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/linkedlist/HeroNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/linkedlist/HeroNode2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/linkedlist/Josepfu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/linkedlist/SingleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/linkedlist/SingleLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/linkedlist/SingleLinkedListDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/linkedlist/TestStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/queue/ArrayQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/queue/ArrayQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/queue/ArrayQueueDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/queue/CircleArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/queue/CircleArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/queue/CircleQueueDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/recursion/MiGong.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/recursion/MiGong.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/recursion/Queen8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/recursion/RecursionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/search/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/search/BinarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/search/FibonacciSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/search/FibonacciSearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/search/InsertValueSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/search/SeqSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/sort/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/sort/HeapSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/sort/InsertSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/sort/MaxHeap/BuildMaxHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/MaxHeap/BuildMaxHeap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/sort/MergetSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/MergetSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/sort/MergetSort2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/MergetSort2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/QuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/sort/QuickSort2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/sort/RadixSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/sort/SelectSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/sort/ShellSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/stack/ArrayStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/stack/ArrayStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/stack/ArrayStack2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/stack/ArrayStack2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/stack/ArrayStackDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/stack/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/stack/Operation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/stack/Operation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/stack/PolandNotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/stack/PolandNotation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/tree/ArrBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/tree/ArrBinaryTreeDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/tree/BinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/tree/BinaryTreedemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/tree/HeapSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/tree/HeroNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/HeroNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/tree/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/tree/redbalcktree/RBTrdd$RBNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/tree/redbalcktree/RBTrdd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/tree/redbalcktree/RedblackTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/tree/threadedbinarytree/HeroNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/threadedbinarytree/HeroNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/tree/threadedbinarytree/ThreadedBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/threadedbinarytree/ThreadedBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/yu/datastructures/tree/threadedbinarytree/ThreadedBinaryTreeDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/coding/pp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/coding/pp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/ArrayList/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/ArrayList/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/BFSandDFS/BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/BFSandDFS/BFS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/BFSandDFS/DFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/BFSandDFS/DFS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/BFSandDFS/SanTreeDFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/BFSandDFS/SanTreeDFS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/BliimFilter/MyBloomFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/BliimFilter/MyBloomFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/LinkedList/LinkedListDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/Stringbuffer/LongestFirstString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/Stringbuffer/LongestFirstString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/Stringbuffer/getLCS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/Stringbuffer/getLCS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/Thread/Interpret.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/desmodel/Interpret.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/Thread/SingleModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/Thread/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/desmodel/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/Thread/Singleton2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/desmodel/Singleton2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/Thread/Singleton3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/desmodel/Singleton3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/algorithm/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/algorithm/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/algorithm/binarysearchnorecursion/BinarySearchNoRecur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/algorithm/binarysearchnorecursion/BinarySearchNoRecur.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/algorithm/dac/Hanoitower.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/algorithm/dac/Hanoitower1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/algorithm/dijkstra/DijkstraAlgorithm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/algorithm/dynamic/KnapsackProblem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/algorithm/floyd/FloydAlgorithm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/algorithm/greedy/GreedyAlgorithm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/algorithm/greedy/GreedyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/algorithm/greedy/GreedyDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/algorithm/horse/HorseChessboard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/algorithm/kmp/KMPAlgorithm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/algorithm/kmp/ViolenceMatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/algorithm/kruskal/KruskalCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/algorithm/prim/PrimDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/algorithm/prim/PrimDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/datastructures/hashtab/HashTabDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/datastructures/linkedlist/DoubleLinkedListDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/datastructures/linkedlist/Josepfu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/datastructures/linkedlist/Josepfu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/datastructures/linkedlist/SingleLinkedListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/datastructures/linkedlist/SingleLinkedListDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/datastructures/linkedlist/TestStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/datastructures/linkedlist/TestStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/datastructures/queue/ArrayQueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/datastructures/queue/ArrayQueueDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/datastructures/queue/CircleQueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/datastructures/queue/CircleQueueDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/datastructures/recursion/MiGong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/datastructures/recursion/MiGong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/datastructures/recursion/Queen8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/datastructures/recursion/Queen8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/datastructures/recursion/RecursionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/datastructures/recursion/RecursionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/datastructures/search/BinarySearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/datastructures/search/FibonacciSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/datastructures/search/InsertValueSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/datastructures/search/InsertValueSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/datastructures/search/SeqSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/datastructures/sort/BubbleSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/datastructures/sort/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/datastructures/sort/HeapSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/datastructures/sort/InsertSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/datastructures/sort/MaxHeap/BuildMaxHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/datastructures/sort/MaxHeap/BuildMaxHeap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/datastructures/sort/MergetSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/datastructures/sort/MergetSort2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/datastructures/sort/MergetSort2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/datastructures/sort/QuickSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/datastructures/sort/QuickSort2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/datastructures/sort/QuickSort2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/datastructures/sort/RadixSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/datastructures/sort/SelectSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/datastructures/sort/ShellSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/datastructures/stack/ArrayStackDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/datastructures/stack/ArrayStackDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/datastructures/stack/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/datastructures/stack/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/datastructures/stack/PolandNotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/datastructures/stack/PolandNotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/datastructures/tree/ArrBinaryTreeDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/datastructures/tree/BinaryTreedemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/datastructures/tree/BinaryTreedemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/datastructures/tree/HeapSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/datastructures/tree/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/datastructures/tree/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/datastructures/tree/redbalcktree/RedblackTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/datastructures/tree/redbalcktree/RedblackTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/datastructures/tree/threadedbinarytree/ThreadedBinaryTreeDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/AOP/dongtaiProxy/GuitaiA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/AOP/dongtaiProxy/GuitaiA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/AOP/dongtaiProxy/Maotaijiu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/AOP/dongtaiProxy/Maotaijiu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/AOP/dongtaiProxy/Wuliangye.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/AOP/dongtaiProxy/Wuliangye.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/AOP/staticProxy/Cinema.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/AOP/staticProxy/Cinema.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/ArrayList/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/ArrayList/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/LinkedList/LinkedListDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/LinkedList/LinkedListDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/dac/Hanoitower.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/dac/Hanoitower.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/dac/Hanoitower1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/dac/Hanoitower1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/dynamic/KnapsackProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/dynamic/KnapsackProblem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/floyd/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/floyd/Graph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/greedy/GreedyAlgorithm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/greedy/GreedyAlgorithm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/greedy/GreedyDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/greedy/GreedyDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/horse/HorseChessboard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/horse/HorseChessboard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/kmp/ViolenceMatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/kmp/ViolenceMatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/kruskal/KruskalCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/kruskal/KruskalCase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/prim/MinTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/prim/MinTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/hashtab/EmpLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/hashtab/EmpLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/hashtab/HashTab.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/hashtab/HashTab.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/hashtab/HashTabDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/hashtab/HashTabDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/linkedlist/DoubleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/linkedlist/DoubleLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/linkedlist/DoubleLinkedListDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/linkedlist/DoubleLinkedListDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/queue/ArrayQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/queue/ArrayQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/queue/ArrayQueueDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/queue/ArrayQueueDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/queue/CircleArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/queue/CircleArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/queue/CircleQueueDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/queue/CircleQueueDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/recursion/MiGong.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/recursion/MiGong.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/search/InsertValueSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/search/InsertValueSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/search/SeqSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/search/SeqSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/InsertSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/InsertSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/MergetSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/MergetSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/MergetSort2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/MergetSort2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/QuickSort2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/QuickSort2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/RadixSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/RadixSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/SelectSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/SelectSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/ShellSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/ShellSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/stack/Operation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/stack/Operation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/stack/PolandNotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/stack/PolandNotation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/ArrBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/ArrBinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/BinaryTreedemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/BinaryTreedemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/HeapSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/HeroNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/HeroNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/threadedbinarytree/HeroNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/threadedbinarytree/HeroNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/threadedbinarytree/ThreadedBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/threadedbinarytree/ThreadedBinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/threadedbinarytree/ThreadedBinaryTreeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/threadedbinarytree/ThreadedBinaryTreeDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/desmodel/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/desmodel/Singleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/desmodel/Singleton2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/desmodel/Singleton2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/desmodel/Singleton3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/desmodel/Singleton3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/leetcode/countSubway/TestShortestPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/leetcode/countSubway/TestShortestPath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/leetcode/nonam/BinaryHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/leetcode/nonam/BinaryHeap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/leetcode/nonam/Dijkstra.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/leetcode/nonam/Dijkstra.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/leetcode/nonam/sz1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/leetcode/nonam/sz1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/leetcode/nonam/test1$fenxiaoj$Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/leetcode/nonam/test1$fenxiaoj$Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/leetcode/nonam/test1$fenxiaoj$Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/leetcode/nonam/test1$fenxiaoj$Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/leetcode/nonam/yidong1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/leetcode/nonam/yidong1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/leetcode/nutbolt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/leetcode/nutbolt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/leetcode/xhs/pr1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/leetcode/xhs/pr1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/nutbolt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/nutbolt.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -311,7 +114,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -339,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pro1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.nonam.pro1" />
+    <configuration name="nutbolt2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.nutbolt2" />
       <module name="codelab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.sxf.*" />
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -352,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pro3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.pro3" />
+    <configuration name="pro1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.nonam.pro1" />
       <module name="codelab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.*" />
+          <option name="PATTERN" value="leetcode.sxf.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -394,10 +197,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.nutbolt" />
+        <item itemvalue="Application.nutbolt2" />
         <item itemvalue="Application.pro1" />
         <item itemvalue="Application.xc3" />
         <item itemvalue="Application.san1" />
-        <item itemvalue="Application.pro3" />
       </list>
     </recent_temporary>
   </component>
@@ -417,7 +220,8 @@
       <workItem from="1606096469896" duration="32000" />
       <workItem from="1606096926358" duration="2653000" />
       <workItem from="1606134168377" duration="1199000" />
-      <workItem from="1606183547121" duration="3973000" />
+      <workItem from="1606183547121" duration="4351000" />
+      <workItem from="1606273076491" duration="2457000" />
     </task>
     <task id="LOCAL-00001" summary="coding lab">
       <created>1606097028453</created>
@@ -454,65 +258,77 @@
       <option name="project" value="LOCAL" />
       <updated>1606098266726</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="coding lab">
+      <created>1606222306486</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606222306486</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="coding lab1" />
     <MESSAGE value="coding lab" />
     <option name="LAST_COMMIT_MESSAGE" value="coding lab" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1222" y="250" key="CommitChangelistDialog2" timestamp="1606222291439">
+    <state x="1222" y="250" key="CommitChangelistDialog2" timestamp="1606313749031">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1222" y="250" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1606222291439" />
+    <state x="1222" y="250" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1606313749031" />
     <state x="1402" y="400" key="FileChooserDialogImpl" timestamp="1606097189585">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1402" y="400" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1606097189585" />
-    <state width="1384" height="247" key="GridCell.Tab.0.bottom" timestamp="1606222291466">
+    <state width="1384" height="247" key="GridCell.Tab.0.bottom" timestamp="1606273900479">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1384" height="247" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1606222291466" />
-    <state width="1384" height="247" key="GridCell.Tab.0.center" timestamp="1606222291466">
+    <state width="1384" height="247" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1606273900479" />
+    <state width="1384" height="247" key="GridCell.Tab.0.center" timestamp="1606273900479">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1384" height="247" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1606222291466" />
-    <state width="1384" height="247" key="GridCell.Tab.0.left" timestamp="1606222291466">
+    <state width="1384" height="247" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1606273900479" />
+    <state width="1384" height="247" key="GridCell.Tab.0.left" timestamp="1606273900479">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1384" height="247" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1606222291466" />
-    <state width="1384" height="247" key="GridCell.Tab.0.right" timestamp="1606222291466">
+    <state width="1384" height="247" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1606273900479" />
+    <state width="1384" height="247" key="GridCell.Tab.0.right" timestamp="1606273900479">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1384" height="247" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1606222291466" />
-    <state width="1384" height="256" key="GridCell.Tab.1.bottom" timestamp="1606221228247">
+    <state width="1384" height="247" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1606273900479" />
+    <state width="1384" height="256" key="GridCell.Tab.1.bottom" timestamp="1606222612378">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1384" height="256" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1606221228247" />
-    <state width="1384" height="256" key="GridCell.Tab.1.center" timestamp="1606221228247">
+    <state width="1384" height="256" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1606222612378" />
+    <state width="1384" height="256" key="GridCell.Tab.1.center" timestamp="1606222612378">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1384" height="256" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1606221228247" />
-    <state width="1384" height="256" key="GridCell.Tab.1.left" timestamp="1606221228246">
+    <state width="1384" height="256" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1606222612378" />
+    <state width="1384" height="256" key="GridCell.Tab.1.left" timestamp="1606222612378">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1384" height="256" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1606221228246" />
-    <state width="1384" height="256" key="GridCell.Tab.1.right" timestamp="1606221228247">
+    <state width="1384" height="256" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1606222612378" />
+    <state width="1384" height="256" key="GridCell.Tab.1.right" timestamp="1606222612378">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1384" height="256" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1606221228247" />
-    <state x="1214" y="392" key="Vcs.Push.Dialog.v2" timestamp="1606222269669">
+    <state width="1384" height="256" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1606222612378" />
+    <state x="1279" y="393" key="SettingsEditor" timestamp="1606273783952">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1214" y="392" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1606222269669" />
-    <state x="1415" y="576" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606222230978">
+    <state x="1279" y="393" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1606273783952" />
+    <state x="1214" y="392" key="Vcs.Push.Dialog.v2" timestamp="1606222323324">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1415" y="576" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1606222230978" />
+    <state x="1214" y="392" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1606222323324" />
+    <state x="1415" y="576" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606313743290">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1415" y="576" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1606313743290" />
     <state x="1454" y="484" width="647" height="534" key="find.popup" timestamp="1606222215128">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
