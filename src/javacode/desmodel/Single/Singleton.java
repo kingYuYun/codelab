@@ -1,7 +1,7 @@
-package javacode.desmodel;
+package javacode.desmodel.Single;
 
 /**
- * ���ڶ���ʽ����
+ * 饿汉模式
  */
 public class Singleton {
     private static Singleton instance = new Singleton();
@@ -19,9 +19,9 @@ public class Singleton {
         s1 = Singleton.getInstance();
         s2 = Singleton.getInstance();
         if (s1 == s2) {
-            System.out.println("������������ͬʵ��");
+            System.out.println("1");
         } else {
-            System.out.println("���������ǲ�ͬʵ��");
+            System.out.println("2");
         }
 
     }

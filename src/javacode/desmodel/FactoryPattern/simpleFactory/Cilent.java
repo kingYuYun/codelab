@@ -1,8 +1,8 @@
-package FactoryPattern.simpleFactory;
+package javacode.desmodel.FactoryPattern.simpleFactory;
 
 public class Cilent {
     public static void main(String[] args) {
-        //µ÷ÓÃFactoryµÄ¾²Ì¬·½·¨Éú³ÉËùÒªµÄÀà
+        //ï¿½ï¿½ï¿½ï¿½Factoryï¿½Ä¾ï¿½Ì¬ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Òªï¿½ï¿½ï¿½ï¿½
         Factory.create("productA");
         Factory.create("ProductB");
     }

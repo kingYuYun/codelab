@@ -2,68 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6050094-b172-442f-a92e-e5bf9468ce0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/nutbolt2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacode/DeathLock/DeadLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacode/desmodel/FactoryPattern/simpleFactory/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacode/desmodel/Single/SingleModel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/AOP/dongtaiProxy/GuitaiA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/AOP/dongtaiProxy/GuitaiA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/AOP/dongtaiProxy/Maotaijiu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/AOP/dongtaiProxy/Maotaijiu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/AOP/dongtaiProxy/Wuliangye.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/AOP/dongtaiProxy/Wuliangye.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/AOP/staticProxy/Cinema.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/AOP/staticProxy/Cinema.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/ArrayList/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/ArrayList/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/LinkedList/LinkedListDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/LinkedList/LinkedListDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/dac/Hanoitower.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/dac/Hanoitower.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/dac/Hanoitower1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/dac/Hanoitower1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/dynamic/KnapsackProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/dynamic/KnapsackProblem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/floyd/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/floyd/Graph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/greedy/GreedyAlgorithm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/greedy/GreedyAlgorithm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/greedy/GreedyDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/greedy/GreedyDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/horse/HorseChessboard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/horse/HorseChessboard.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/kmp/ViolenceMatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/kmp/ViolenceMatch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/kruskal/KruskalCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/kruskal/KruskalCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/prim/MinTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/algorithm/prim/MinTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/hashtab/EmpLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/hashtab/EmpLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/hashtab/HashTab.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/hashtab/HashTab.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/hashtab/HashTabDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/hashtab/HashTabDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/linkedlist/DoubleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/linkedlist/DoubleLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/linkedlist/DoubleLinkedListDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/linkedlist/DoubleLinkedListDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/queue/ArrayQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/queue/ArrayQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/queue/ArrayQueueDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/queue/ArrayQueueDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/queue/CircleArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/queue/CircleArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/queue/CircleQueueDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/queue/CircleQueueDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/recursion/MiGong.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/recursion/MiGong.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/search/InsertValueSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/search/InsertValueSearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/search/SeqSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/search/SeqSearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/InsertSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/InsertSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/MergetSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/MergetSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/MergetSort2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/MergetSort2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/QuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/QuickSort2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/QuickSort2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/RadixSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/RadixSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/SelectSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/SelectSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/ShellSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/sort/ShellSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/stack/Operation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/stack/Operation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/stack/PolandNotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/stack/PolandNotation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/ArrBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/ArrBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/BinaryTreedemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/BinaryTreedemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/HeapSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/HeroNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/HeroNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/threadedbinarytree/HeroNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/threadedbinarytree/HeroNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/threadedbinarytree/ThreadedBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/threadedbinarytree/ThreadedBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/threadedbinarytree/ThreadedBinaryTreeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/datastructures/tree/threadedbinarytree/ThreadedBinaryTreeDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/desmodel/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/desmodel/Singleton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/desmodel/Singleton2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/desmodel/Singleton2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/desmodel/Singleton3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/javacode/desmodel/Singleton3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/leetcode/countSubway/TestShortestPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/leetcode/countSubway/TestShortestPath.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/leetcode/nonam/BinaryHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/leetcode/nonam/BinaryHeap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/leetcode/nonam/Dijkstra.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/leetcode/nonam/Dijkstra.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/leetcode/nonam/sz1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/leetcode/nonam/sz1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/leetcode/nonam/test1$fenxiaoj$Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/leetcode/nonam/test1$fenxiaoj$Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/leetcode/nonam/test1$fenxiaoj$Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/leetcode/nonam/test1$fenxiaoj$Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/leetcode/nonam/yidong1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/leetcode/nonam/yidong1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/FactoryPattern/simpleFactory/Cilent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/FactoryPattern/simpleFactory/Factory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/FactoryPattern/simpleFactory/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/FactoryPattern/simpleFactory/ProductA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/FactoryPattern/simpleFactory/ProductB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/desmodel/SingleModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/desmodel/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/desmodel/Singleton2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/desmodel/Singleton2$SingletonHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/desmodel/Singleton2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codelab/javacode/desmodel/Singleton3.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/codelab/leetcode/nutbolt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/leetcode/nutbolt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codelab/leetcode/xhs/pr1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codelab/leetcode/xhs/pr1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/nutbolt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/nutbolt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryPattern/simpleFactory/Cilent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/desmodel/FactoryPattern/simpleFactory/Cilent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryPattern/simpleFactory/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/desmodel/FactoryPattern/simpleFactory/Factory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryPattern/simpleFactory/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryPattern/simpleFactory/ProductA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/desmodel/FactoryPattern/simpleFactory/ProductA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryPattern/simpleFactory/ProductB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/desmodel/FactoryPattern/simpleFactory/ProductB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacode/desmodel/SingleModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacode/desmodel/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/desmodel/Single/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacode/desmodel/Singleton2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/desmodel/Single/Singleton2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacode/desmodel/Singleton3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/desmodel/Single/Singleton3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,18 +81,70 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\IDEAPreoject\codelab\src\leetcode\nonam" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="yu.datastructures.sparsearray" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\IDEAPreoject\codelab\src\leetcode" />
       <recent name="C:\Users\admin\Desktop\笔记、代码、课件、资料\mycode\src\yu\datastructures\queue" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="yu.datastructures.sparsearray" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEAPreoject\codelab\src\leetcode\nonam" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.nutbolt">
+  <component name="RunManager" selected="Application.Singleton2">
+    <configuration name="DeadLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacode.DeathLock.DeadLockDemo" />
+      <module name="codelab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacode.DeathLock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Singleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacode.desmodel.Single.Singleton" />
+      <module name="codelab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacode.desmodel.Single.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Singleton2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacode.desmodel.Single.Singleton2" />
+      <module name="codelab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacode.desmodel.Single.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Singleton3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacode.desmodel.Single.Singleton3" />
+      <module name="codelab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacode.desmodel.Single.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="nutbolt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.nutbolt" />
       <module name="codelab" />
@@ -142,65 +158,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nutbolt2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.nutbolt2" />
-      <module name="codelab" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="pro1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.nonam.pro1" />
-      <module name="codelab" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.sxf.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="san1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.san1" />
-      <module name="codelab" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="xc3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.xc3" />
-      <module name="codelab" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Singleton2" />
+        <item itemvalue="Application.Singleton3" />
+        <item itemvalue="Application.Singleton" />
+        <item itemvalue="Application.DeadLockDemo" />
         <item itemvalue="Application.nutbolt" />
-        <item itemvalue="Application.nutbolt2" />
-        <item itemvalue="Application.pro1" />
-        <item itemvalue="Application.xc3" />
-        <item itemvalue="Application.san1" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +185,8 @@
       <workItem from="1606096926358" duration="2653000" />
       <workItem from="1606134168377" duration="1199000" />
       <workItem from="1606183547121" duration="4351000" />
-      <workItem from="1606273076491" duration="2457000" />
+      <workItem from="1606273076491" duration="7886000" />
+      <workItem from="1606462962258" duration="111000" />
     </task>
     <task id="LOCAL-00001" summary="coding lab">
       <created>1606097028453</created>
@@ -265,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606222306486</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="coding lab">
+      <created>1606313776679</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606313776679</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -277,30 +249,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="coding lab" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1222" y="250" key="CommitChangelistDialog2" timestamp="1606313749031">
+    <state x="1222" y="250" key="CommitChangelistDialog2" timestamp="1606463091491">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1222" y="250" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1606313749031" />
+    <state x="1222" y="250" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1606463091491" />
     <state x="1402" y="400" key="FileChooserDialogImpl" timestamp="1606097189585">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1402" y="400" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1606097189585" />
-    <state width="1384" height="247" key="GridCell.Tab.0.bottom" timestamp="1606273900479">
+    <state width="1384" height="247" key="GridCell.Tab.0.bottom" timestamp="1606454230074">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1384" height="247" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1606273900479" />
-    <state width="1384" height="247" key="GridCell.Tab.0.center" timestamp="1606273900479">
+    <state width="1384" height="247" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1606454230074" />
+    <state width="1384" height="247" key="GridCell.Tab.0.center" timestamp="1606454230074">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1384" height="247" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1606273900479" />
-    <state width="1384" height="247" key="GridCell.Tab.0.left" timestamp="1606273900479">
+    <state width="1384" height="247" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1606454230074" />
+    <state width="1384" height="247" key="GridCell.Tab.0.left" timestamp="1606454230074">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1384" height="247" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1606273900479" />
-    <state width="1384" height="247" key="GridCell.Tab.0.right" timestamp="1606273900479">
+    <state width="1384" height="247" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1606454230074" />
+    <state width="1384" height="247" key="GridCell.Tab.0.right" timestamp="1606454230074">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1384" height="247" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1606273900479" />
+    <state width="1384" height="247" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1606454230074" />
     <state width="1384" height="256" key="GridCell.Tab.1.bottom" timestamp="1606222612378">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -317,14 +289,14 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1384" height="256" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1606222612378" />
-    <state x="1279" y="393" key="SettingsEditor" timestamp="1606273783952">
+    <state x="1279" y="393" key="SettingsEditor" timestamp="1606388672972">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1279" y="393" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1606273783952" />
-    <state x="1214" y="392" key="Vcs.Push.Dialog.v2" timestamp="1606222323324">
+    <state x="1279" y="393" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1606388672972" />
+    <state x="1214" y="392" key="Vcs.Push.Dialog.v2" timestamp="1606313792142">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1214" y="392" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1606222323324" />
+    <state x="1214" y="392" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1606313792142" />
     <state x="1415" y="576" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606313743290">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

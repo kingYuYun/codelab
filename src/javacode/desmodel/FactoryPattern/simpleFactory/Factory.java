@@ -1,16 +1,16 @@
-package FactoryPattern.simpleFactory;
+package javacode.desmodel.FactoryPattern.simpleFactory;
 
 public class Factory {
-    //¿ÉÒÔÔÚ¹¤³§ÀàÖÐÌí¼ÓÈÎºÎÄãËùÐèÒªµÄÂß¼­
+    //ï¿½ï¿½ï¿½ï¿½ï¿½Ú¹ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Îºï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Òªï¿½ï¿½ï¿½ß¼ï¿½
     public static Product create(String str)
     {
-        //Éú³ÉProductA
+        //ï¿½ï¿½ï¿½ï¿½ProductA
         if(str.equalsIgnoreCase("ProductA"))
         {
             return new ProductA();
         }
         else
-            //Éú³ÉProductB
+            //ï¿½ï¿½ï¿½ï¿½ProductB
             if(str.equalsIgnoreCase("ProductB"))
             {
                 return new ProductB();
