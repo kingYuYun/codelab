@@ -1,4 +1,4 @@
-package NIOSelector;
+package NIOSelector.simplenio;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;
@@ -14,7 +14,7 @@ public class Client {
             ByteBuffer writebuffer=ByteBuffer.allocate(1024);
             ByteBuffer readbuffer=ByteBuffer.allocate(1024);
 
-            writebuffer.put("hello server111".getBytes());
+            writebuffer.put("hello server".getBytes());
             writebuffer.flip();
 
             while (true){
