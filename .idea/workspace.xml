@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6050094-b172-442f-a92e-e5bf9468ce0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/META-INF/codelab.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/NIOSelector/simplenio/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/NIOSelector/simplenio/Server.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codelab/NotSafe/ContainerNotSafeDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/dianchu/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/dianchu/PizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/dianchu/shengzhengStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/dianchu/xiamengStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/dianchu/xiamenggeliPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/dianchu/xiamengsushiPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/dianchu/xiamengxiangcPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/dianchu/xiamengzhishiPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/xiechen/BTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,18 +65,34 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\IDEAPreoject\codelab\src\leetcode" />
-      <recent name="C:\Users\admin\Desktop\笔记、代码、课件、资料\mycode\src\yu\datastructures\queue" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEAPreoject\codelab\src\leetcode\nonam" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="leetcode.dianchu" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="yu.datastructures.sparsearray" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\IDEAPreoject\codelab\src\leetcode\nonam" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEAPreoject\codelab\src\leetcode" />
+      <recent name="C:\Users\admin\Desktop\笔记、代码、课件、资料\mycode\src\yu\datastructures\queue" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ContainerNotSafeDemo">
+  <component name="RunManager" selected="Application.BTree">
+    <configuration name="BTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.xiechen.BTree" />
+      <module name="codelab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.xiechen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NIOSelector.simplenio.Client" />
       <module name="codelab" />
@@ -98,6 +119,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.xiechen.Main" />
+      <module name="codelab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.xiechen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NIOSelector.simplenio.Server" />
       <module name="codelab" />
@@ -111,39 +145,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Singleton2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacode.desmodel.Single.Singleton2" />
-      <module name="codelab" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javacode.desmodel.Single.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Singleton3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacode.desmodel.Single.Singleton3" />
-      <module name="codelab" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javacode.desmodel.Single.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BTree" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ContainerNotSafeDemo" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.Server" />
-        <item itemvalue="Application.Singleton2" />
-        <item itemvalue="Application.Singleton3" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +176,10 @@
       <workItem from="1606462962258" duration="111000" />
       <workItem from="1615283948553" duration="599000" />
       <workItem from="1616857719881" duration="1029000" />
-      <workItem from="1617290419396" duration="650000" />
+      <workItem from="1617290419396" duration="1379000" />
+      <workItem from="1618318080321" duration="7000" />
+      <workItem from="1618484491094" duration="3285000" />
+      <workItem from="1618969110552" duration="2012000" />
     </task>
     <task id="LOCAL-00001" summary="coding lab">
       <created>1606097028453</created>
@@ -233,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617290441781</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="coding lab">
+      <created>1617291286208</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1617291286208</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,26 +263,34 @@
     <option name="LAST_COMMIT_MESSAGE" value="coding lab" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="465" y="14" key="CommitChangelistDialog2" timestamp="1617290449181">
+    <state x="790" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1618969966688">
       <screen x="0" y="0" width="1549" height="840" />
     </state>
-    <state x="465" y="14" key="CommitChangelistDialog2/0.0.1549.840@0.0.1549.840" timestamp="1617290449181" />
-    <state width="1143" height="190" key="GridCell.Tab.0.bottom" timestamp="1616859282666">
+    <state x="790" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1549.840@0.0.1549.840" timestamp="1618969966688" />
+    <state x="465" y="14" key="CommitChangelistDialog2" timestamp="1617291285454">
       <screen x="0" y="0" width="1549" height="840" />
     </state>
-    <state width="1143" height="190" key="GridCell.Tab.0.bottom/0.0.1549.840@0.0.1549.840" timestamp="1616859282666" />
-    <state width="1143" height="190" key="GridCell.Tab.0.center" timestamp="1616859282666">
+    <state x="465" y="14" key="CommitChangelistDialog2/0.0.1549.840@0.0.1549.840" timestamp="1617291285454" />
+    <state width="1146" height="190" key="GridCell.Tab.0.bottom" timestamp="1618491410866">
       <screen x="0" y="0" width="1549" height="840" />
     </state>
-    <state width="1143" height="190" key="GridCell.Tab.0.center/0.0.1549.840@0.0.1549.840" timestamp="1616859282666" />
-    <state width="1143" height="190" key="GridCell.Tab.0.left" timestamp="1616859282666">
+    <state width="1146" height="190" key="GridCell.Tab.0.bottom/0.0.1549.840@0.0.1549.840" timestamp="1618491410866" />
+    <state width="1146" height="190" key="GridCell.Tab.0.center" timestamp="1618491410866">
       <screen x="0" y="0" width="1549" height="840" />
     </state>
-    <state width="1143" height="190" key="GridCell.Tab.0.left/0.0.1549.840@0.0.1549.840" timestamp="1616859282666" />
-    <state width="1143" height="190" key="GridCell.Tab.0.right" timestamp="1616859282666">
+    <state width="1146" height="190" key="GridCell.Tab.0.center/0.0.1549.840@0.0.1549.840" timestamp="1618491410866" />
+    <state width="1146" height="190" key="GridCell.Tab.0.left" timestamp="1618491410866">
       <screen x="0" y="0" width="1549" height="840" />
     </state>
-    <state width="1143" height="190" key="GridCell.Tab.0.right/0.0.1549.840@0.0.1549.840" timestamp="1616859282666" />
+    <state width="1146" height="190" key="GridCell.Tab.0.left/0.0.1549.840@0.0.1549.840" timestamp="1618491410866" />
+    <state width="1146" height="190" key="GridCell.Tab.0.right" timestamp="1618491410866">
+      <screen x="0" y="0" width="1549" height="840" />
+    </state>
+    <state width="1146" height="190" key="GridCell.Tab.0.right/0.0.1549.840@0.0.1549.840" timestamp="1618491410866" />
+    <state x="423" y="151" key="Vcs.Push.Dialog.v2" timestamp="1617291330680">
+      <screen x="0" y="0" width="1549" height="840" />
+    </state>
+    <state x="423" y="151" key="Vcs.Push.Dialog.v2/0.0.1549.840@0.0.1549.840" timestamp="1617291330680" />
     <state x="637" y="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616858065510">
       <screen x="0" y="0" width="1549" height="840" />
     </state>
