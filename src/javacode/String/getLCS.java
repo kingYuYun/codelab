@@ -1,4 +1,4 @@
-package javacode.Stringbuffer;
+package javacode.String;
 
 import java.util.Scanner;
 
